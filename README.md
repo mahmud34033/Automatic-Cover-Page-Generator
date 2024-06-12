@@ -9,8 +9,8 @@ Creating cover pages for academic documents is important but often tedious and e
 • Provide customization options for users to tailor cover page content and layout.
 • Generate cover pages in PDF format for easy submission.
 
-# Project Features and Interface
-3.1 List of Feature
+## Project Features and Interface
+## List of Feature
 • User-Friendly GUI: A graphical user interface developed using Tkinter to facilitate easy
 input of necessary details.
 • Data Validation: Ensures all user inputs are correctly formatted and complete before
@@ -20,14 +20,16 @@ processing.
 on user inputs.
 • Data Reusability: Allows users to retrieve and reuse previously stored data to streamline
 the cover page creation process.
-3.2 User Interfaces
+
+## User Interfaces
 • Main Input Form: A Tkinter-based form where users enter course details, teacher name,
 student name, and submission date.
 • Data Retrieval Form: An interface that allows users to select and reuse data from
 previously stored inputs.
 • Confirmation Dialogs: Pop-up dialogs to confirm data entry, validation success, and PDF
 generation completion.
-3.3 Input Output Demo
+
+## Input Output Demo
 • User Input:
 o Document Type & Template Selection: Users choose the document type and
 template.
