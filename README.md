@@ -9,6 +9,7 @@ Creating cover pages for academic documents is important but often tedious and e
 • Provide customization options for users to tailor cover page content and layout.
 • Generate cover pages in PDF format for easy submission.
 
+
 ## Project Features and Interface
 ## List of Feature
 • User-Friendly GUI: A graphical user interface developed using Tkinter to facilitate easy
