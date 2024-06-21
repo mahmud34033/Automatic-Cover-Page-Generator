@@ -11,6 +11,10 @@ Creating cover pages for academic documents is important but often tedious and e
 
 
 ## Project Features and Interface
+
+## Prototype design using figma:
+https://www.figma.com/design/LXUDWxQl4PbPBbrSgdzbNl/Abdullah-Al-Mahmud's-team-library?node-id=0-1&t=uauzsayKX5XEGxkn-1
+
 ## List of Feature
 • User-Friendly GUI: A graphical user interface developed using Tkinter to facilitate easy
 input of necessary details.
