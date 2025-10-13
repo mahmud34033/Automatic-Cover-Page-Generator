@@ -1,11 +1,11 @@
-<img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/46b450ae-0569-4cf9-8425-eaa634b3bb7c" /># Automatic-Cover-Page-Generator
+# Automatic-Cover-Page-Generator
 
 ## Background
 Creating cover pages for academic documents is important but often tedious and error-prone. The "Automatic Cover Page Generator" automates this process, enhancing efficiency and professionalism by offering a user-friendly, customizable, and offline solution.
 
 ## Some Screenshots of this project 📸
-![screenshot](screenshot1.png)
-![screenshot](screenshot2.png)
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
 
 ## Objective
 • Develop an application to automate cover page creation for academic documents.
