@@ -8,10 +8,10 @@ Creating cover pages for academic documents is important but often tedious and e
 ![screenshot2](screenshot2.png)
 
 ## Objective
-• Develop an application to automate cover page creation for academic documents.
-• Ensure the application is user-friendly and accessible without internet access.
-• Provide customization options for users to tailor cover page content and layout.
-• Generate cover pages in PDF format for easy submission.
+- Develop an application to automate cover page creation for academic documents.
+- Ensure the application is user-friendly and accessible without internet access.
+- Provide customization options for users to tailor cover page content and layout.
+- Generate cover pages in PDF format for easy submission.
 
 
 ## Project Features and Interface
