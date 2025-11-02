@@ -42,9 +42,9 @@ generation completion.
 - User Input:
 -- Document Type & Template Selection: Users choose the document type and
 template.
--- Course Details: Users input the course code and course name.
--- Teacher Info: Users provide the name, designation and department of the teacher.
--- Student Info: Users enter the student's details.
--- Submission Date: Users specify the submission date.
+  - Course Details: Users input the course code and course name.
+  - Teacher Info: Users provide the name, designation and department of the teacher.
+  - Student Info: Users enter the student's details.
+  - Submission Date: Users specify the submission date.
 - Output: A PDF file is generated containing the provided details formatted into a cover
 page.
