@@ -40,7 +40,7 @@ generation completion.
 
 ## Input Output Demo
 - User Input:
--- Document Type & Template Selection: Users choose the document type and
+  - Document Type & Template Selection: Users choose the document type and
 template.
   - Course Details: Users input the course code and course name.
   - Teacher Info: Users provide the name, designation and department of the teacher.
